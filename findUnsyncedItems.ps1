@@ -1,3 +1,6 @@
+<# this script find items that are in one folder, but not in the other #>
+<# perhaps it works in both ways, perhaps not.. test that!#>
+
 $folder1 = "C:\folderName"
 $folder2 = "D:\otherFolderName"
 
